@@ -1,5 +1,5 @@
 ## Summer-Olympics
-This is an assignment given by Elite Techno group In This I have solved following Question<br />
+This is an assignment given by Elite Techno group In This I have solved following Questions<br />
 1. In how many cities Summer Olympics is held so far?
 2. Which sport is having most number of Gold Medals so far? (Top 5)
 3. Which sport is having most number of medals so far? (Top 5)
